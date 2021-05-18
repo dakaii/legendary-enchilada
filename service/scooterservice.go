@@ -3,8 +3,8 @@ package service
 import (
 	"context"
 	"fmt"
-	"graphyy/model"
-	"graphyy/storage"
+	"legendaryenchilada/model"
+	"legendaryenchilada/storage"
 
 	"go.mongodb.org/mongo-driver/bson"
 	"go.mongodb.org/mongo-driver/mongo/options"

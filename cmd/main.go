@@ -2,11 +2,11 @@ package main
 
 import (
 	"fmt"
-	"graphyy/controller"
-	"graphyy/internal"
-	"graphyy/migration"
-	"graphyy/service"
-	"graphyy/storage"
+	"legendaryenchilada/controller"
+	"legendaryenchilada/internal"
+	"legendaryenchilada/migration"
+	"legendaryenchilada/service"
+	"legendaryenchilada/storage"
 	"net/http"
 	"os"
 )

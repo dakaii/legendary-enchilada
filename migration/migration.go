@@ -3,8 +3,8 @@ package migration
 import (
 	"context"
 	"fmt"
-	"graphyy/model"
-	"graphyy/storage"
+	"legendaryenchilada/model"
+	"legendaryenchilada/storage"
 	"log"
 	"math/rand"
 

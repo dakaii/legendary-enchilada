@@ -1,8 +1,8 @@
 package scooter
 
 import (
-	"graphyy/model"
-	"graphyy/service"
+	"legendaryenchilada/model"
+	"legendaryenchilada/service"
 )
 
 // declaring the repository interface in the controller package allows us to easily swap out the actual implementation, enforcing loose coupling.

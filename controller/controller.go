@@ -1,8 +1,8 @@
 package controller
 
 import (
-	"graphyy/controller/scooter"
-	"graphyy/service"
+	"legendaryenchilada/controller/scooter"
+	"legendaryenchilada/service"
 )
 
 // Controllers contains all the controllers

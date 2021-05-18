@@ -2,7 +2,7 @@ package storage
 
 import (
 	"context"
-	"graphyy/internal"
+	"legendaryenchilada/internal"
 	"log"
 	"time"
 

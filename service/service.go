@@ -1,6 +1,6 @@
 package service
 
-import "graphyy/storage"
+import "legendaryenchilada/storage"
 
 // Services contains all the repo structs
 type Services struct {
